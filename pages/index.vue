@@ -1,5 +1,6 @@
 <template>
   <div>
-    <ClientParent />
+    Hello
+    <NuxtLink to="/broken">To Broken </NuxtLink>
   </div>
 </template>
