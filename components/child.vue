@@ -1,9 +1,9 @@
 <template>
-  <div>I'm a styled text</div>
+  <div class="red">I'm a styled text</div>
 </template>
 
 <style scoped>
-div {
+.red {
   font-size: 200px;
   color: red;
 }
