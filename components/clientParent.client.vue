@@ -1,5 +1,6 @@
 <template>
   <div>
-    <ClientParent />
+    Parent Text
+    <Child />
   </div>
 </template>
