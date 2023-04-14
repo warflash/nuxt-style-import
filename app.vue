@@ -1,7 +1,5 @@
 <template>
-  <div>Hello!</div>
+  <div>
+    <NuxtPage />
+  </div>
 </template>
-
-<script>
-import './assets/test.css';
-</script>
